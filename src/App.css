@@ -192,7 +192,7 @@
 }
 
 .DiamondContainer {
-  border: 2px rgb(24, 121, 248);
+  border: 2px solid rgb(24, 121, 248);
   margin: 5px;
   border-radius: 10px;
   display: flex;
