@@ -1,11 +1,12 @@
 import "./App.css";
 import DiamondContainer from "./Components/DiamondContainer";
+import data from "./Data/data";
 
 function App() {
   return (
     <>
       <h1>Diamond World</h1>
-      <DiamondContainer />
+      <DiamondContainer data={data} />
     </>
   );
 }
